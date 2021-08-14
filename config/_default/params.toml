@@ -58,7 +58,7 @@ alert = true
 alertText = "এই সাইট এখনো নির্মানাধীন। ধন্যবাদ।"
 
 # Edit Page
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/opensourcebangladesh/opensourcebangladesh.github.io"
 editPage = false
 
 [options]
