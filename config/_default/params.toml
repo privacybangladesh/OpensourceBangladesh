@@ -50,8 +50,8 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
-copyRight = "Copyright (c) 2021 Abu Sayed"
+footer = "<a href=\"https://www.netlify.com/\">নেটলিফাই</a>, <a href=\"https://gohugo.io/\">হোজু</a>, এবং <a href=\"https://getdoks.org/\">ডকস</a> দিয়ে তৈরী"
+copyRight = "স্বত্তাধীকারি (c) ২০২১ Abu Sayed"
 
 # Alert
 alert = false
@@ -70,5 +70,5 @@ editPage = true
   bootStrapJs = true
   breadCrumb = false
   highLight = true
-  kaTex = true
+  kaTex = false
   collapsibleSidebar = true
