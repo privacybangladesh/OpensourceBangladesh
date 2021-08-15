@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Open Source Bangladesh"
+title = "OpenSource Bangladesh"
 titleSeparator = "|"
 titleAddition = "A public site for sharing opensource materials."
 description = "Open Source Bangladesh aims to help student by providing all opensource/free study materials in one place."
@@ -9,8 +9,8 @@ description = "Open Source Bangladesh aims to help student by providing all open
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+domainTLD = "osbangladesh.netlify.app"
+titleHome = "Opensource Bangladesh"
 
 ## Twitter Cards
 twitterSite = "@abusayed0206"
@@ -51,15 +51,15 @@ lqipWidth = "20x"
 
 # Footer
 footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright (c) 2021 Abu Sayed"
 
 # Alert
-alert = true
+alert = false
 alertText = "এই সাইট এখনো নির্মানাধীন। ধন্যবাদ।"
 
 # Edit Page
 docsRepo = "https://github.com/opensourcebangladesh/opensourcebangladesh.github.io"
-editPage = false
+editPage = true
 
 [options]
   lazySizes = true
@@ -70,5 +70,5 @@ editPage = false
   bootStrapJs = true
   breadCrumb = false
   highLight = true
-  kaTex = false
+  kaTex = true
   collapsibleSidebar = true
