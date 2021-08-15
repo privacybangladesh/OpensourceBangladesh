@@ -1,71 +1,36 @@
-/* jost-regular - latin */
+/* Hind Siliguri-regular - latin */
 @font-face {
-  font-family: "Jost";
+  font-family: "Hind Siliguri";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
   src:
-    local("Jost"),
-    url("fonts/vendor/bangla/Li-Koshtipathor-Unicode.woff2") format("woff2"),
-    url("fonts/vendor/bangla/Li-Koshtipathor-Unicode.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    local("Hind Siliguri"),
+    url("fonts/vendor/bangla/hind-siliguri-v7-latin_bengali-regular.woff2") format("woff2"),
+    url("fonts/vendor/bangla/hind-siliguri-v7-latin_bengali-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* jost-500 - latin */
+/* Hind Siliguri-500 - latin */
 @font-face {
-  font-family: "Jost";
+  font-family: "Hind Siliguri";
   font-style: normal;
   font-weight: 500;
   font-display: swap;
   src:
-    local("Jost"),
-    url("fonts/vendor/bangla/Li-Koshtipathor-Unicode.woff2") format("woff2"),
-    url("fonts/vendor/bangla/Li-Koshtipathor-Unicode.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    local("Hind Siliguri"),
+    url("fonts/vendor/bangla/hind-siliguri-v7-latin_bengali-500.woff2") format("woff2"),
+    url("fonts/vendor/bangla/hind-siliguri-v7-latin_bengali-500.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* jost-700 - latin */
+/* Hind Siliguri-700 - latin */
 @font-face {
-  font-family: "Jost";
+  font-family: "Hind Siliguri";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
   src:
-    local("Jost"),
-    url("fonts/vendor/bangla/Li-Koshtipathor-Unicode.woff2") format("woff2"),
-    url("fonts/vendor/bangla/Li-Koshtipathor-Unicode.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    local("Hind Siliguri"),
+    url("fonts/vendor/bangla/hind-siliguri-v7-latin_bengali-700.woff2") format("woff2"),
+    url("fonts/vendor/bangla/hind-siliguri-v7-latin_bengali-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* jost-italic - latin */
-@font-face {
-  font-family: "Jost";
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
-  src:
-    local("Jost"),
-    url("fonts/vendor/bangla/Li-Koshtipathor-Unicode-Italic.woff2") format("woff2"),
-    url("fonts/vendor/bangla/Li-Koshtipathor-Unicode-Italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* jost-500italic - latin */
-@font-face {
-  font-family: "Jost";
-  font-style: italic;
-  font-weight: 500;
-  font-display: swap;
-  src:
-    local("Jost"),
-    url("fonts/vendor/bangla/Li-Koshtipathor-Unicode-Italic.woff2") format("woff2"),
-    url("fonts/vendor/bangla/Li-Koshtipathor-Unicode-Italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-/* jost-700italic - latin */
-@font-face {
-  font-family: "Jost";
-  font-style: italic;
-  font-weight: 700;
-  font-display: swap;
-  src:
-    local("Jost"),
-    url("fonts/vendor/bangla/Li-Koshtipathor-Unicode-Italic.woff2") format("woff2"),
-    url("fonts/vendor/bangla/Li-Koshtipathor-Unicode-Italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
