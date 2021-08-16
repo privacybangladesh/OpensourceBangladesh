@@ -23,7 +23,12 @@
  [[main]]
   name = "যোগাযোগ"
   url = "/contact/"
-  weight = 20 
+  weight = 20
+
+[[main]]
+  name = "ডোনেট"
+  url = "/donate/"
+  weight = 21   
 
 [[social]]
   name = "টুইটার"
