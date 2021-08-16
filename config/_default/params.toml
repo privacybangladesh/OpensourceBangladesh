@@ -32,7 +32,7 @@ schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/abusayed0206"
-schemaLinkedIn = ""
+schemaLinkedIn = "https://linkedin.com/in/abusayed0206"
 schemaGitHub = "https://github.com/abusayed0206"
 schemaSection = "blog"
 
@@ -50,7 +50,7 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "<a href=\"https://www.netlify.com/\">নেটলিফাই</a>, <a href=\"https://gohugo.io/\">হোজু</a>, এবং <a href=\"https://getdoks.org/\">ডকস</a> দিয়ে তৈরী"
+footer = " ❤️ দিয়ে তৈরী করেছেন <a href=\"https://www.twitter.com/abusayed0206\">সাঈদ</a>, প্রযুক্তিঃ<a href=\"https://www.netlify.com/\">নেটলিফাই</a>, <a href=\"https://gohugo.io/\">হোজু</a>, এবং <a href=\"https://getdoks.org/\">ডকস</a>"
 copyRight = "স্বত্তাধীকারি (c) ২০২১ Abu Sayed"
 
 # Alert
