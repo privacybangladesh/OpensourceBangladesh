@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "OpenSource Bangladesh"
+title = "ওপেনসোর্স বাংলাদেশ"
 titleSeparator = "|"
 titleAddition = "A public site for sharing opensource materials."
 description = "Open Source Bangladesh aims to help student by providing all opensource/free study materials in one place."
@@ -10,7 +10,7 @@ description = "Open Source Bangladesh aims to help student by providing all open
 images = ["doks.png"]
 ogLocale = "en_US"
 domainTLD = "osbangladesh.netlify.app"
-titleHome = "Opensource Bangladesh"
+titleHome = "ওপেনসোর্স বাংলাদেশ"
 
 ## Twitter Cards
 twitterSite = "@abusayed0206"
@@ -59,7 +59,7 @@ alertText = "এই সাইট এখনো নির্মানাধীন�
 
 # Edit Page
 docsRepo = "https://github.com/opensourcebangladesh/opensourcebangladesh.github.io"
-editPage = true
+editPage = false
 
 [options]
   lazySizes = true

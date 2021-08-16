@@ -9,10 +9,11 @@
   weight = 60
   identifier = "help"
   url = "/docs/help/"
+  
 
 [[main]]
-  name = "Docs"
-  url = "/docs/prologue/introduction/"
+  name = "ডোনেট"
+  url = "/donate/"
   weight = 10
 
 [[main]]
@@ -23,12 +24,7 @@
  [[main]]
   name = "যোগাযোগ"
   url = "/contact/"
-  weight = 20
-
-[[main]]
-  name = "ডোনেট"
-  url = "/donate/"
-  weight = 21   
+  weight = 20 
 
 [[social]]
   name = "টুইটার"
@@ -40,4 +36,8 @@
 [[footer]]
   name = "গোপনীয়তা নীতি"
   url = "/privacy-policy/"
+  weight = 10
+[[footer]]
+  name = "টুইটার"
+  url = "https://twitter.com/abusayed0206"
   weight = 10
