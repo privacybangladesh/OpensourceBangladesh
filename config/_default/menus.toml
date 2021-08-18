@@ -2,14 +2,19 @@
   name = "SSC"
   weight = 10
   identifier = "ssc"
-  url = "/docs/ssc/"
+  url = "/class/ssc/"
 
 [[docs]]
   name = "HSC"
   weight = 20
   identifier = "hsc"
-  url = "/docs/hsc/"
+  url = "/class/hsc/"
   
+[[docs]]
+  name = "Admission"
+  weight = 30
+  identifier = "admission"
+  url = "/class/admission/"
 
 [[main]]
   name = "ডোনেট"

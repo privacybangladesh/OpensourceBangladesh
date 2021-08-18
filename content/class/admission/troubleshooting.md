@@ -8,7 +8,7 @@ draft: false
 images: []
 menu: 
   docs:
-    parent: "ssc"
+    parent: "admission"
 weight: 620
 toc: true
 ---

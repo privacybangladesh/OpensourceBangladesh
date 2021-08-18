@@ -1,25 +1,32 @@
 ---
-title: "বাংলা 2 পত্র"
-description: "বাংলা ১ম পত্র এর সকল ম্যাটেরিয়ালস এখানে পাওয়া যাবে "
-date: 2020-08-27T19:23:18+02:00
-lastmod: 2020-08-27T19:23:18+02:00
+title: "বাংলা ২য় পত্র"
+description: "এসএসসি বাংলা ২য় পত্রের ক্লাস লেকচার, ম্যাটেরিয়ালস পাওয়া যাবে এই পেজ এ!"
+lead: "বাংলা হলো মুখস্থনির্ভর বই, যত পড়বে তত ভালো করবে"
+date: 2020-10-06T08:49:31+00:00
+lastmod: 2020-10-06T08:49:31+00:00
 draft: false
 images: []
+menu:
+  docs:
+    parent: "ssc"
+weight: 611
+toc: true
 ---
 
-## অধ্যায়-১ঃ  অধ্যায় এর নাম
+{{< alert icon="💡" text="Learn more about <a href=\"https://docs.npmjs.com/about-semantic-versioning\">semantic versioning</a> and <a href=\"https://docs.npmjs.com/cli/v6/using-npm/semver#advanced-range-syntax\">advanced range syntax</a>." />}}
 
-এখানে ১ম অধ্যায় এর সবকিছু দেয়া হবে! 
+## Check for outdated packages
 
-### অধ্যায়-২ঃ  অধ্যায় এর নাম
+The [`npm outdated`](https://docs.npmjs.com/cli/v7/commands/npm-outdated) command will check the registry to see if any (or, specific) installed packages are currently outdated:
 
-এখানে ২য় অধ্যায় এর সবকিছু দেয়া হবে! 
+```bash
+npm outdated [[<@scope>/]<pkg> ...]
+```
 
-### অধ্যায়-৩ঃ  অধ্যায় এর নাম
+## Update packages
 
-এখানে ৩য় অধ্যায় এর সবকিছু দেয়া হবে! 
+The [`npm update`](https://docs.npmjs.com/cli/v7/commands/npm-update) command will update all the packages listed to the latest version (specified by the tag config), respecting semver:
 
-## অধ্যায়-৪  অধ্যায় এর নাম
-
-এখানে ৪র্থ অধ্যায় এর সবকিছু দেয়া হবে! 
-
+```bash
+npm update [<pkg>...]
+```
