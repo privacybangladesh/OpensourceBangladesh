@@ -1,14 +1,14 @@
 [[docs]]
-  name = "Prologue"
+  name = "SSC"
   weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
+  identifier = "ssc"
+  url = "/docs/ssc/"
 
 [[docs]]
-  name = "Help"
-  weight = 60
-  identifier = "help"
-  url = "/docs/help/"
+  name = "HSC"
+  weight = 20
+  identifier = "hsc"
+  url = "/docs/hsc/"
   
 
 [[main]]
