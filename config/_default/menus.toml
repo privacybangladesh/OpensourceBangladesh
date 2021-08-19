@@ -1,17 +1,17 @@
 [[docs]]
-  name = "SSC"
+  name = "এসএসসি"
   weight = 10
   identifier = "ssc"
   url = "/class/ssc/"
 
 [[docs]]
-  name = "HSC"
+  name = "এইচএসসি"
   weight = 20
   identifier = "hsc"
   url = "/class/hsc/"
   
 [[docs]]
-  name = "Admission"
+  name = "এডমিশন"
   weight = 30
   identifier = "admission"
   url = "/class/admission/"

@@ -1,6 +1,6 @@
 ---
-title: "Abu Sayed"
-description: "Maintainer of Open Source Bangladesh."
+title: "আবু সাঈদ"
+description: "ওপেনসোর্স বাংলাদেশ এর মেইন্টেনার"
 date: 2020-10-06T08:50:45+00:00
 lastmod: 2020-10-06T08:50:45+00:00
 draft: false

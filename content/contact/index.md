@@ -11,7 +11,9 @@ images: []
 
 **ইমেইলঃ**: [abusayed0206@outlook.com](mailto:abusayed0206@outlook.com)
 
-**টেলিগ্রামঃ** [@lrsayed](https://t.me/lrsayed)
+**টেলিগ্রাম চ্যানেল(আপডেটস)** [@OpensourceBangladesh](https://t.me/opensourcebangladesh)
+
+**টেলিগ্রাম গ্রুপ(ডিসকাশন)** [@OpensourceBangladesh](https://t.me/opensourcebangladeshgroup)
 
 **টুইটারঃ** [@abusayed0206](https://twitter.com/abusayed0206)
 
