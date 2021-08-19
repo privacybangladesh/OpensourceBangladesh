@@ -19,7 +19,7 @@ images: []
 ```
 
 
-| <img src="https://seeklogo.com/images/D/dutch-bangla-rocket-logo-B4D1CC458D-seeklogo.com.png" width="100" height="100">   |
+| রকেট   |
 |:---:|
 |   <img src="/images/rocket.jpg" width="250" height="250">    |
 

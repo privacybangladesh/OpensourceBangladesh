@@ -1,7 +1,7 @@
 ---
-title: "Commands"
-description: "Doks comes with commands for common tasks."
-lead: "Doks comes with commands for common tasks."
+title: "বাংলা ১ম পত্র"
+description: "বাংলা ১ম পত্রঃবাংলা হলো মুখস্থনির্ভর বই, যত পড়বে তত ভালো করবে"
+lead: "বাংলা হলো মুখস্থনির্ভর বই, যত পড়বে তত ভালো করবে"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "hsc"
-weight: 130
+weight: 100
 toc: true
 ---
 
