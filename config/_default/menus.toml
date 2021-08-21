@@ -46,3 +46,7 @@
   name = "টুইটার"
   url = "https://twitter.com/abusayed0206"
   weight = 12
+  [[footer]]
+  name = "টেলিগ্রাম গ্রুপ"
+  url = "https://t.me/opensourcebangladeshgroup"
+  weight = 12

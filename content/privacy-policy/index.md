@@ -7,30 +7,22 @@ draft: false
 images: []
 ---
 
-__TLDR__: We do not use cookies and we do not collect any personal data.
+__সারসংক্ষেপ__: আমরা কুকি ব্যবহার করি না এবং কোন ধরনের ব্যক্তিগত তথ্য সংগ্রহ করি না! 
 
-## Website visitors
+## ওয়েবসাইট ভিজিটর
 
-- No personal information is collected.
-- No information is stored in the browser.
-- No information is shared with, sent to or sold to third-parties.
-- No information is shared with advertising companies.
-- No information is mined and harvested for personal and behavioral trends.
-- No information is monetized.
+- কোন ধরনের ব্যক্তিগত তথ্য সংগ্রহ করা হয় না! 
+- ব্রাউওজারে কোন ধরনের তথ্য সংরক্ষন করা হয় না! 
+- তৃতীয় কোন পক্ষের কাছে ভিজিটর এর কোন তথ্য বিক্রি/শেয়ার করা হয় না! 
+- বিজ্ঞাপণ সংস্থার সাথে তথ্য শেয়ার করা হয় না!
 
-### Information we collect and what we use it for
 
-We run [Plausible](https://plausible.io/) analytics on getdoks.org. The following information is collected:
+### আমরা যেসব তথ্য সংগ্রহ করিঃ
 
-- __Page URL__. We track the page URL of each page view on this website. We use this to understand which pages have been viewed and how many times a particular page has been viewed. For example: _https://getdoks.org/_.
-- __HTTP Referrer__. We use the referrer string to understand the number of visitors referred to this website from links on other sites. For example: _https://github.com/_.
-- __Browser__. We use this to understand what browsers people use when visiting this website. This is derived from the User-Agent HTTP header. The full User-Agent is discarded. For example: _Chrome_.
-- __Operating system__. We use this to understand what operating systems people use when visiting this website. We only use the brand of the operating system and don’t include the version number or any other details. This is derived from the User-Agent HTTP header. The full User-Agent is discarded. For example: _GNU/Linux_.
-- __Device type__. We use this to understand what devices people use when visiting this website. This is derived from window.innerWidth. The actual width of the browser in pixels is discarded. For example: _Desktop_.
-- __Visitor Country__. We look up the visitor’s country using the IP address. We do not track anything more granular than the country of origin and the IP address of the visitor is discarded. We never store IP addresses in our database or logs. For example: _Canada_.
+আমরা শুধুমাত্র নেটলিফাই এর ব্যান্ডউইদ দেখে ভিজিটর সম্পর্কে আইডিয়া নিই! কোন ধরনের এনালিটিক্স ব্যবহার করা হয় না! এমনকি গুগল এনালিটিক্স ও ব্যবহার করা হয় না! তবে, আমাদের টেলিগ্রাম গ্রুপে জয়েন দিলে সেখান থেকে শুধু ইউজারনেম এবং নাম পাওয়া যায়। তবে, অন্যান্ত প্রাইভেসী সেটিংস ঠিক করে রাখার দ্বায়ীত্ব ইউজার এর। 
 
-## Contact us
+## যোগাযোগ
 
-[Contact us]({{< relref "contact/index.md" >}}) if you have any questions.
+আপনার যদি কোন ধরনের প্রশ্ন থেকে তাহলে [যোগাযোগ]({{< relref "contact/index.md" >}}) করুন। 
 
-Effective Date: _27th August 2020_
+কার্যকরের তারিখ: _27th August 2021_

@@ -1,7 +1,7 @@
 ---
-title: "Introduction"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+title: "বাংলা ২য় পত্র"
+description: "বাংলা ২য় পত্র এর ম্যাটেরিয়ালস এর পেজ।"
+lead: "বাংলা ২য় পত্রের ব্যক্রণ অংশ খুব গুরত্বপূর্ন। ভালো করে না পড়লে পরে প্সকাবে! "
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "hsc"
-weight: 100
+weight: 102
 toc: true
 ---
 
@@ -27,7 +27,7 @@ Step-by-step instructions on how to start a new Doks project. [Tutorial →](htt
 
 {{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." />}}
 
-One page summary of how to start a new Doks project. [Quick Start →]({{< relref "quick-start" >}})
+
 
 ## Go further
 

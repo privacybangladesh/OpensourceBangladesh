@@ -13,86 +13,56 @@ weight: 100
 toc: true
 ---
 
-{{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." />}}
+## **সাহিত্য পাঠ গদ্যাংশ**
 
-## create
+- ### বিড়াল
 
-Create new content for your site:
+- ###  অপরিচিতা
 
-```bash
-npm run create [path] [flags]
-```
+- ### চাষার দুক্ষু
 
-See also the Hugo docs: [hugo new](https://gohugo.io/commands/hugo_new/).
+- ### আহ্বান
 
-## lint
+- ### আমার পথ
 
-Check scripts, styles, and markdown for errors:
+- ### জীবন ও বৃক্ষ
 
-```bash
-npm run lint
-```
+- ### মাসিপিসি
 
-### scripts
+- ### বায়ান্নর দিনগুলো
 
-Check scripts for errors:
+- ### জাদুঘরে কেন যাব
 
-```bash
-npm run lint:scripts [-- --fix]
-```
+- ### রেইনকোট
 
-### styles
+- ### মহাজাগতিক কিউরেটর
 
-Check styles for errors:
+- ### নেকলেস
 
-```bash
-npm run lint:styles [-- --fix]
-```
 
-### markdown
 
-Check markdown for errors:
+## **সাহিত্য পাঠ পদ্যাংশ**
 
-```bash
-npm run lint:markdown [-- --fix]
-```
+- ###  বিভীষণের প্রতি মেঘনাদ
 
-## clean
+- ### ঐকতান
 
-Delete temporary directories:
+- ### সাম্যবাদী
 
-```bash
-npm run clean
-```
+- ### এই পৃথিবীতে এক স্থান আছে
 
-## start
+- ### তাহারেই পড়ে মনে
 
-Start local development server:
+- ### সেই অস্ত্র
 
-```bash
-npm run start
-```
+- ### আঠারো বছর বয়স
 
-## build
+- ### ফেব্রুয়ারি ১৯৬৯
 
-Build production website:
+- ### আমি কিংবদন্তির কথা বলছি
 
-```bash
-npm run build
-```
+- ### নূরলদীনের কথা মনে পড়ে যায়
 
-### functions
+- ###  লোক-লোকান্তর
 
-Build Lambda functions:
-
-```bash
-npm run build:functions
-```
-
-### preview
-
-Build production website including draft and future content:
-
-```bash
-npm run build:preview
-```
+- ### রক্তে আমার অনাদি অস্থি
